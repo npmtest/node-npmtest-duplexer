@@ -1,4 +1,7 @@
-# test coverage for  [duplexer (v0.1.1)](https://github.com/Raynos/duplexer)  [![npm package](https://img.shields.io/npm/v/npmtest-duplexer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-duplexer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-duplexer.svg)](https://travis-ci.org/npmtest/node-npmtest-duplexer)
+# npmtest-duplexer
+
+#### test coverage for  [duplexer (v0.1.1)](https://github.com/Raynos/duplexer)  [![npm package](https://img.shields.io/npm/v/npmtest-duplexer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-duplexer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-duplexer.svg)](https://travis-ci.org/npmtest/node-npmtest-duplexer)
+
 #### Creates a duplex stream
 
 [![NPM](https://nodei.co/npm/duplexer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/duplexer)
